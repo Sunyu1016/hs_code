@@ -1,1 +1,0 @@
-alter table  lsbackout  add orgcode varchar2(20);
